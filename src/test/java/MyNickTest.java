@@ -56,8 +56,6 @@ public class MyNickTest {
 
 
 
-        //Thread.sleep(5000);
-
         driver.quit();          //выйти из браузера
         //driver.close();         // закрыть браузер
 
