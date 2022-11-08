@@ -8,6 +8,8 @@ import org.testng.annotations.Test;
 public class MyNickTest {
 
 //    TC_1_1 - Тест кейс
+
+
 //    1. Открыть страницу
 //    2. Набрать в строке поиска город Paris
 //    3. Нажать пункт меню Search
